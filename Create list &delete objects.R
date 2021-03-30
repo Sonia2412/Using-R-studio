@@ -1,0 +1,5 @@
+name<-("Sonia")
+print(name)
+name<-readline("Enter your name: ")
+hello<-paste("Welcome",name, "!")
+print<-(hello)
